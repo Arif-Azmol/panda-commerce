@@ -32,6 +32,9 @@
 img{
     width: 100px;
 }
+.row-p{
+    padding: 0;
+}
 .cat1{
     background-color: orange;
 }
@@ -44,13 +47,14 @@ img{
 .card .buy-button{
     margin: 20px;
 }
-#shoes , #backpack h2{
-    margin: 0 50px;
+.cat-heading{
+    margin: 20px 0px;
 }
 .card{
+    padding: 10px;
     border: none;
     border-radius: 20px;
-    box-shadow: 5px 5px 30px black;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .signin{
     border-radius: 20px;
